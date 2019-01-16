@@ -2,7 +2,7 @@ const constants = {
   THUMBNAIL_ICON_SIZE: 16,
   OPACITY_OPAQUE: 255,
   BUTTON_BOX_ANIMATION_TIME: 0.15,
-  MAX_BUTTON_WIDTH: 150, // Pixels
+  MAX_BUTTON_WIDTH: 250, // Pixels
   FLASH_INTERVAL: 500,
   TitleDisplay: {
     None: 1,
